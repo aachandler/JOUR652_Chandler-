@@ -1,11 +1,12 @@
-<!--styles for my resume!!!--->
+/*styles for my resume*/
 body {
-  font-family:'Open Sans',sans-serif;
+  font-family:'Open Sans', Arial,sans-serif;
   color:#444;
   font-weight:400;
   margin-top: 10px;
   margin-bottom: 10px;
 }
+/*banner name at top*/
 #name {
 color:#33485e;
 text-transform:uppercase;
@@ -17,6 +18,7 @@ width:60%;
 min-width:300px;
 margin: 0 auto
 }
+/*title of website*/
 .title {
   color:#33485e;
   text-transform:uppercase;
@@ -28,6 +30,7 @@ margin: 0 auto
   margin-left: 0;
   margin-right: 0;
 }
+/*co-headings of website*/
 .sectionheader {
   font-size:1.5em;
   text-transform:uppercase;
@@ -41,14 +44,17 @@ margin: 0 auto
   width:70%;
   min-width: 300px;
 }
+/*job titles from positions*/
 .jobtitle{
   font-weight:600;
   font-size:1.5em;
 }
+/*places worked*/
 .organization {
   font-size:1.25em;
   font-weight:400;
 }
+/*dates worked*/
 .date {
   font-size:1em;
   font-weight:400;
@@ -56,16 +62,21 @@ margin: 0 auto
   margin-top: 2px
 
 }
-.menu {
+/*contact information*/
+.menu  {
   font-size:1em;
   text-align:center;
   font-weight: 400;
-  display: inline;
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
   margin-bottom: 0;
+  padding: 0;
 }
+.menu li{
+  display:inline;
+}
+
 #container {
   width:100%;
   font-weight: 400;
@@ -73,7 +84,7 @@ margin: 0 auto
   margin: 0 auto;
   margin-bottom: 50px;
 }
-
+/*education*/
 #degrees{
   margin-top: 5px;
   margin-bottom: 0;
@@ -82,6 +93,7 @@ margin: 0 auto
   font-weight: 400;
 
 }
+
 #do{
   margin-top: 5px;
   margin-left: 0;
