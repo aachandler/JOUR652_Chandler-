@@ -85,16 +85,20 @@ margin: 0 auto
   margin-bottom: 50px;
 }
 /*education*/
-#degrees{
+.degrees{
   margin-top: 5px;
   margin-bottom: 0;
   margin-right: 0;
   margin-left: 0;
   font-weight: 400;
-
 }
-
-#do{
+.description{
+  margin-top:10px;
+  margin-bottom: 10;
+  margin-left: 0;
+  margin-right: 0;
+}
+.do{
   margin-top: 5px;
   margin-left: 0;
   margin-right: 0;
