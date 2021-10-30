@@ -1,0 +1,22 @@
+
+1.<a href="https://www.google.com/">Google></a><p>is the best search engine in the world</p>
+2. A DIV tag is a crucial HTML element that defines a "division" or section of a HTML document. It is used to group together HTML elements to format with CSS.
+3.<!DOCTYPE HTML>
+  <HTML>
+  <HEAD>
+  <TITLE>PAGE TITLE</TITLE>
+  </HEAD>
+  </HTML>
+  4. You would place it after the <head> tag.
+  5. You would place those in the <body> tags.
+  6.<div class="graphicbox"></div>
+     <div id="name"></div>
+  7.<div id="apples"></div>
+        <class="fruit">
+  8..fruit {
+     color:#000000;
+  }
+  9. <img src="">
+  10. media queries are used as a parameter to call other style declarations based on the dimensions of the current viewing device. They are used when writing a stylesheet.
+  11.Serif fonts have decorative strokes at the end of a character, while san serifs do not. San Serifs have more smooth edges.
+  12.#FFCC33
