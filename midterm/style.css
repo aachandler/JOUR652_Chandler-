@@ -1,0 +1,46 @@
+/*Alvieann Chandlere*/
+
+body{
+  font-family:'Helvetica', Arial;
+  font-size:12px
+  color: #444;
+  font-weight:400px;
+  margin-top:10px;
+  margin-bottom:10px;
+
+}
+#title {
+  font-size:2em;
+  text-transform:uppercase;
+  font-weight: 400;
+  background-color:#0a24ee;
+  color:#ffffff;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-left: 0;
+  margin-right: 0;
+  width:70%;
+  min-width: 300px;
+}
+#main {
+  width:100%;
+  font-weight: 400;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+#byline {
+  font-size: 9px;
+}
+#blockquote {
+  color:#e80b98;
+  font-size: 3em;
+  font-weight: 300;
+  width:50%;
+}
+#subhead {
+  font-size:1.5em;
+  font-style: italic;
+  color:#0a24ee;
+}
