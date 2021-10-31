@@ -1,0 +1,29 @@
+body {
+  font-family:'Open Sans', Arial,sans-serif;
+  color:#444;
+  font-weight:400;
+  margin-left: 400px;
+  margin-right: 400px;
+  }
+  #title {
+    color:#bc0202;
+    font-style: bold;
+    font-size: 4em;
+  }
+  #byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  }
+#caption {
+  font-size: 9px
+}
+#quote {
+  font-size: 3em;
+  font-weight: 300;
+  width:50%;
+  text-align: center;
+  font-weight: 200px;
+  font-style: italics;
+  margin: 0 auto;
+}
