@@ -1,6 +1,17 @@
 #headline {
   font-siz: 3em;
   font-weight: 700;
-  text-align: center
+  text-align: center;
   font-family: 'Montserrat', sans-serif;
+}
+
+#byline {
+  font-size: 1em;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: center;
+}
+
+p {
+  font-size: 1.8em
 }
